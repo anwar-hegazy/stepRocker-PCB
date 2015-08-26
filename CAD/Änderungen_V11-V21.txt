@@ -1,0 +1,17 @@
+V13
+===
+- Jumper für Reset in den Bootloader
+- Besserer 5V-Regler und 5Vout für Encoder
+- 5V-Versorgung auch aus USB, Schottky-Diode als Rückspeisungsschutz
+- Labels für die S/D Outputs sind vertauscht (Achse 1 und 2), Korrektur nötig
+
+V21
+===
+- Label im Silkscreen Top überlappen sich (Step/Dir out etc.)
+- Prozessor VOUT33: 2.2uF nach Masse damit USB sicher geht (interner Regler im Prozessor versorgt den USB Transceiver)
+- Prozessor VREGIN: min. 1uF nach Masse (Reglereingang) evtl. Inudktivität zwischen USB_VBUS, um peak In-Rush-Current zu reduzieren
+- Spannungsteiler R104 / R105 hochohmiger, evtl. R105 n.b., ansonsten wird ein Prozessor-/NMI ausgelöst (mit Prozessor-Default-Einstellungen) 
+- Footprint der Endstufentransistoren anpassen!
+- Step/Dir Out 1+2 vertauscht
+- Endschalter mit L1/R1..L3/R3 beschriftet statt L0/R0..L2/R2
+- MOSFETs TMC1620/AP4575GH-HF    

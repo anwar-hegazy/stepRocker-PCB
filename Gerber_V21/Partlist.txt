@@ -1,0 +1,127 @@
+Partlist
+
+Exported from TMCM-1110_V21.brd at 27.02.2015 09:53:44
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                      Package           Library                    Position (mm)         Orientation
+
+C101     10nF/16V                   C0603             rcl                        (10.922 45.974)       R180
+C102     100nF/50V                  C0603             rcl                        (17.399 20.193)       R180
+C103     100nF/50V                  C0603             rcl                        (29.845 6.858)        R0
+C104     100nF/50V                  C0603             rcl                        (32.893 6.858)        R0
+C105     100nF/50V                  C0603             rcl                        (38.1 16.256)         R0
+C106     0603/15p/10v               0603              _TMC_TE_RCL                (35.56 7.366)         R90
+C107     0603/15p/10v               0603              _TMC_TE_RCL                (38.1 12.192)         R180
+C108     100nF/50V                  C0603             rcl                        (33.782 26.162)       R180
+C109     2.2µF/10V                  C0603             rcl                        (17.272 12.954)       R180
+C110     100nF/50V                  C0603             rcl                        (27.178 26.162)       R0
+C112     100nF/16V                  C0603             rcl                        (17.272 10.922)       R180
+C113     100nF/50V                  C0603             rcl                        (24.13 6.858)         R0
+C114     100nF/16V                  C0603             rcl                        (17.272 24.13)        R180
+C115     100nF/50V                  C0603             rcl                        (25.4475 29.9085)     R270
+C116     100nF/50V                  C0603             rcl                        (12.954 22.098)       R180
+C117     100nF/50V                  C0603             rcl                        (12.827 4.699)        R0
+C118     100nF/50V                  C0603             rcl                        (12.954 31.623)       R0
+C119     2.2µF/10V                  C0603             rcl                        (17.399 15.748)       R180
+C120     2.2µF/10V                  C0603             rcl                        (17.399 17.653)       R180
+C201     100nF                      C0603             rcl                        (37.211 32.766)       R90
+C202     100nF                      C0603             rcl                        (39.243 22.479)       R270
+C203     100nF                      C0603             rcl                        (46.609 32.385)       R180
+C204     100nF                      C0603             rcl                        (37.211 22.479)       R270
+C205     100nF                      C0603             rcl                        (39.243 32.766)       R90
+C206     100nF                      C0603             rcl                        (38.1 19.939)         R180
+C207     470nF                      C0603             rcl                        (42.545 32.385)       R180
+C208     100nF                      C0603             rcl                        (42.545 22.86)        R0
+C301     220nF 16V                  C0603             rcl                        (59.69 24.003)        R270
+C302     100nF 50V                  C0603             rcl                        (59.69 27.305)        R90
+C303     470nF 16V                  C0603             rcl                        (49.149 27.432)       R270
+C304     100nF 50V                  C0603             rcl                        (59.69 30.607)        R90
+C305     220µF 50V                  E5-10,5           rcl                        (79.121 13.716)       R90
+C306     100nF 50V                  C0603             rcl                        (60.071 19.685)       R180
+C307     100nF 50V                  C0603             rcl                        (59.944 47.117)       R180
+C308     220µF 50V                  E5-10,5           rcl                        (79.121 41.529)       R270
+C401     100nF/50V                  C0603             rcl                        (32.0675 39.6875)     R180
+C402     2.2µF/50V/1206             C1206             rcl                        (27.686 40.8305)      R180
+C403     100nF/16V                  C0603             rcl                        (29.2735 33.9725)     R270
+C404     100nF/16V                  C0603             rcl                        (27.1145 33.9725)     R270
+C405     22uF/6V3                   C0805             rcl                        (22.9235 38.735)      R0
+C406     22uF/6V3                   C0805             rcl                        (22.9235 40.8305)     R0
+C407     4.7µF/10V                  C0603             rcl                        (18.4785 32.639)      R0
+C408     4.7µF/10V                  C0603             rcl                        (21.971 29.9085)      R270
+D101     SRV05-4                    TMC_SOT23-6       TMC_IC                     (13.462 39.37)        R90
+D401     BAS40-05                   SOT23             diode                      (18.4785 36.068)      R180
+IC101    MK20DX256VLL10             TMC_LQFP100       TMC_IC                     (27.432 16.51)        R270
+IC102    74AHCT1G14DBV              SOT23-5           74xx-little-us             (29.0035 29.845)      R90
+IC103    AT25128B                   SO8               stepRocker                 (12.827 26.924)       R90
+IC104    SN65HVD3082ED              SO8               stepRocker                 (12.827 17.272)       R90
+IC105    TJA1050T                   SO8               stepRocker                 (12.827 9.398)        R90
+IC201    TMC429-LI                  QFN32_5X5         stepRocker                 (43.561 27.559)       R90
+IC301    TMC262-LA                  QFN32_5X5         stepRocker                 (54.737 27.559)       R270
+IC401    LM2841YMK                  TMC_SOT23-6       TMC_IC                     (29.1465 37.465)      R0
+IC402    LP2985AIM5-3.3             SOT23-5           stepRocker                 (18.7325 29.9085)     R270
+JP101    nv                         2X07              pinhead                    (17.78 51.23)         R0
+JP201    nv                         1X07              pinhead                    (25.4 2.5)            R0
+JP202    nv                         1X03              pinhead                    (40.64 2.5)           R0
+JP203    nv                         1X03              pinhead                    (45.72 52.5)          R0
+JP204    nv                         1X03              pinhead                    (50.8 2.5)            R0
+JP205    nv                         1X03              pinhead                    (43.18 44.45)         R270
+JP206    nv                         1X03              pinhead                    (48.26 44.45)         R270
+K301     nv                         JP1               jumper                     (60 41.25)            R0
+K302     nv                         JP1               jumper                     (60 13.75)            R0
+L101     600R/100MHz                0603              wuerth-elektronik          (17.399 14.351)       R0
+L102     600R/100MHz                0603              wuerth-elektronik          (12.7 44.45)          R0
+L401     600R@100MHz/1A             0603              Wuerth_Elektronik_eiSos_V6 (31.877 41.275)       R180
+L402     33uH/0.32A                 WE-TPC_3816       Wuerth_Elektronik_eiSos_V6 (23.3045 35.052)      R180
+LED101   yellow                     CHIP-LED0603      led                        (45.085 16.256)       R270
+LED102   yellow                     CHIP-LED0603      led                        (45.085 14.097)       R270
+LED201   orange                     CHIP-LED0603      led                        (45.085 9.779)        R270
+LED202   yellow                     CHIP-LED0603      led                        (45.085 11.938)       R270
+LED301   red                        CHIP-LED0603      led                        (45.085 7.62)         R270
+LED401   orange                     CHIP-LED0603      led                        (45.085 18.415)       R270
+Q101     BSS138                     SOT23             Transistoren               (22.479 45.72)        R0
+Q102     BSS138                     SOT23             Transistoren               (25.781 45.72)        R0
+R101     680R                       R0603             rcl                        (42.037 16.256)       R0
+R102     680R                       R0603             rcl                        (42.037 14.097)       R0
+R103     4k7                        R_4X_1206         stepRocker                 (17.5 8)              R90
+R104     10k                        R0603             rcl                        (17.907 39.751)       R0
+R105     43k                        R0603             rcl                        (17.907 41.529)       R180
+R106     1k8                        R_4X_1206         stepRocker                 (19.05 45.72)         R0
+R107     470k                       R0603             rcl                        (13.462 36.576)       R180
+R108     470k                       R0603             rcl                        (13.462 42.164)       R180
+R109     22k                        R0603             rcl                        (16.129 45.72)        R90
+R110     10k                        R0603             rcl                        (17.272 22.098)       R0
+R111     5k6                        R0603             rcl                        (20.447 26.162)       R0
+R112     10k                        R0603             rcl                        (17.272 26.162)       R0
+R113     82k                        R0603             rcl                        (32.0675 42.926)      R0
+R114     10k                        R0603             rcl                        (23.622 26.162)       R180
+R201     4k7                        R_4X_1206         stepRocker                 (36.957 25.781)       R90
+R202     1K8                        R0603             rcl                        (42.037 9.779)        R180
+R203     4k7                        R_4X_1206         stepRocker                 (36.957 29.464)       R90
+R204     1K8                        R0603             rcl                        (42.037 11.938)       R0
+R301     1K8                        R0603             rcl                        (42.037 7.62)         R0
+R302     0R                         R0603             rcl                        (62.357 27.305)       R270
+R303     0R220                      R1206             rcl                        (64.389 42.672)       R0
+R304     0R100                      R1206             rcl                        (64.389 40.132)       R0
+R305     0R220                      R1206             rcl                        (64.389 15.24)        R0
+R306     0R100                      R1206             rcl                        (64.389 12.319)       R0
+R401     1K8                        R0603             rcl                        (42.037 18.415)       R0
+R402     4k87                       R0603             rcl                        (31.9405 37.1475)     R270
+R403     27k                        R0603             rcl                        (31.9405 33.9725)     R270
+SV101    nv                         ML10              con-harting-ml             (5.08 20.32)          R90
+T301     TMC1620                    DUAL_DPAK_4L      Transistoren               (69.977 48.26)        R0
+T302     TMC1620                    DUAL_DPAK_4L      Transistoren               (69.977 34.29)        R0
+T303     TMC1620                    DUAL_DPAK_4L      Transistoren               (69.977 20.828)       R0
+T304     TMC1620                    DUAL_DPAK_4L      Transistoren               (69.977 6.858)        R0
+TP1      TPTP15SQ                   TP15SQ            testpad                    (46.355 14.517)       MR0
+TP2      TPTP15SQ                   TP15SQ            testpad                    (43.815 11.517)       MR0
+TP3      TPTP15SQ                   TP15SQ            testpad                    (33.655 11.517)       MR0
+TP4      TPTP15SQ                   TP15SQ            testpad                    (31.115 14.517)       MR0
+TP5      TPTP15SQ                   TP15SQ            testpad                    (28.575 11.517)       MR0
+U$401    MSS1P6                     MICRO_SMP         Dioden                     (26.7335 37.592)      R90
+X101     MINI-USB-SCHIELD-32005-301 32005-301         con-cypressindustries      (6 39)                R0
+X301     RIACONNECT_183-04          RIACONNECT_183-04 stepRocker                 (79 27.5)             R0
+X401     TMC_POWER_CONNECTOR        RIACONNECT_320-02 stepRocker                 (34.31996875 50)      R90
+Y101     16MHZ-3.2X2.5              MYLIB_FA-238      EBC_ucBoard_TE_v04         (38.1 9.271)          R90

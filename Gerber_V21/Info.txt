@@ -1,0 +1,16 @@
+Date:				2015-02-27
+Name:				TMCM-1110_V21
+Layers:				4
+PCB Width:			85mm
+PCB Height:			55mm
+PCB Thickness:			1.55mm
+
+Outer Layer Copper:		35µm (end)
+Inner Layer Copper:		35µm
+
+Silkscreen Top:			white
+Silk Screen Bottom:		not required
+Solder Mask Top:		green
+Solder Mask Bottom:		green
+UL logo:			required
+
